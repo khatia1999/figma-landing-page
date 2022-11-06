@@ -1,0 +1,132 @@
+
+.footer-container{
+    width: 100%;
+    height: 500px;
+    background-color: #043873;
+}
+
+.footer-inside-div{
+    width: 1100px;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.move{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.footer-whitepace-icon{
+    height: 20px;
+    width: 30px;
+    padding-top: 27px;
+    margin-right: 10px;
+}
+
+.footer-inside-div ul  li{
+    margin-left: -40px;
+    margin-bottom: 10px;
+    color:#FFFFFF;
+    font-size: 14px;
+}
+
+h5{
+    color: white;
+}
+   
+.whitepace-footer-text, .Try-It-Today{
+    color: white;
+}
+  
+.better-workspace-around,.whole-team{
+    color: white;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.Overview{
+    color: yellow;
+}
+
+.whitepace-picture{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+  
+hr{
+    width: 1100px;
+    border: 0.5px solid #2E4E73;
+}
+
+
+.after-hr-div{
+    width: 1100px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.second-piece{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.copyright ul li {
+    color: white;
+    font-size: 13px;
+    margin-left: -40px;
+    display: inline-block;
+    margin-right: 80px;
+}
+
+.copyright{
+     width: 700px;
+     height: 40px;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+}
+
+
+.ftln-icons{
+    width: 120px;
+    height: 40px;
+    padding-top: 15px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fa-facebook-f, .fa-twitter, .fa-linkedin-in{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
